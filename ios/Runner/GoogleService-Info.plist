@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>225597991192-jtfl6ph2tfgoncbtpgvn5hqqe0fv1de0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.225597991192-jtfl6ph2tfgoncbtpgvn5hqqe0fv1de0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>225597991192-4aqfctdtg0c2173ncvohr7eokd5tekdp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBGJ0fUfj25PP2OCp-MYAGn8ZCS7j7QAIw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>225597991192</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.myfitnessfire.app</string>
+	<key>PROJECT_ID</key>
+	<string>my-fitness-fire</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-fitness-fire.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:225597991192:ios:95add882101db43a26566d</string>
+</dict>
+</plist>

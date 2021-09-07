@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Fitness Fire</string>
+    <string name="facebook_app_id">401722130927796</string>
+    <string name="fb_login_protocol_scheme">fb401722130927796</string>
+</resources>

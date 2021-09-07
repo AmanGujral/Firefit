@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "225597991192",
+    "project_id": "my-fitness-fire",
+    "storage_bucket": "my-fitness-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225597991192:android:05cfe2d31e4fd89626566d",
+        "android_client_info": {
+          "package_name": "com.firefit.home_workout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225597991192-9gs1ucgo63bh8apd1qjleovjejih57gg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firefit.home_workout",
+            "certificate_hash": "5121c2aca28eb326d7436fc1ba954c05f1ae6a58"
+          }
+        },
+        {
+          "client_id": "225597991192-jaoq1eumfa9aua3877ql3e04tv0d4pfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSic19eAH6txnrGPtz6lEdS_ImoHOnsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225597991192-jaoq1eumfa9aua3877ql3e04tv0d4pfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225597991192-jtfl6ph2tfgoncbtpgvn5hqqe0fv1de0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myfitnessfire.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225597991192:android:299a94d26d39803226566d",
+        "android_client_info": {
+          "package_name": "com.myfitnessfire.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225597991192-4aqfctdtg0c2173ncvohr7eokd5tekdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myfitnessfire.app",
+            "certificate_hash": "5121c2aca28eb326d7436fc1ba954c05f1ae6a58"
+          }
+        },
+        {
+          "client_id": "225597991192-jaoq1eumfa9aua3877ql3e04tv0d4pfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSic19eAH6txnrGPtz6lEdS_ImoHOnsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225597991192-jaoq1eumfa9aua3877ql3e04tv0d4pfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225597991192-jtfl6ph2tfgoncbtpgvn5hqqe0fv1de0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myfitnessfire.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
